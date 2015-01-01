@@ -1,0 +1,32 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_dependencies":
+	[
+		"0_package_control_loader",
+		"bz2"
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"Better CoffeeScript",
+		"BracketHighlighter",
+		"Colorsublime",
+		"DocBlockr",
+		"Emmet",
+		"Git",
+		"GitGutter",
+		"Package Control",
+		"Pretty YAML",
+		"Puppet",
+		"Sass",
+		"SideBarEnhancements",
+		"SideBarFolders",
+		"SPARC Assembly",
+		"SublimeLinter",
+		"SublimePythonIDE",
+		"SublimeREPL",
+		"Theme - Soda"
+	]
+}

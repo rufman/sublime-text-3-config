@@ -1,0 +1,83 @@
+{
+	"bold_folder_labels": true,
+	"color_scheme": "Packages/User/Espresso Soda (SL) (SublimePythonIDE).tmTheme",
+	"draw_white_space": "all",
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		"CVS",
+		"dist",
+		"grunt_build",
+		"node_modules",
+		"bower_components",
+		".*",
+		"*.pyc",
+		"*.pyo",
+		"*.exe",
+		"*.dll",
+		"*.obj",
+		"*.o",
+		"*.a",
+		"*.lib",
+		"*.so",
+		"*.dylib",
+		"*.ncb",
+		"*.sdf",
+		"*.suo",
+		"*.pdb",
+		"*.idb",
+		".DS_Store",
+		"*.class",
+		"*.psd",
+		"*.db",
+		"documentation"
+	],
+	"font_size": 10.0,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"open_files_in_new_window": false,
+	"rulers":
+	[
+		80,
+		100
+	],
+	"scroll_past_end": true,
+	"soda_classic_tabs": true,
+	"soda_folder_icons": true,
+	"tab_size": 4,
+	"tag_mode":
+	{
+		"cfml":
+		[
+			"HTML+CFML",
+			"ColdFusion",
+			"ColdFusionCFC"
+		],
+		"html":
+		[
+			"HTML",
+			"HTML 5",
+			"PHP"
+		],
+		"xhtml":
+		[
+			"XML"
+		]
+	},
+	"tag_scope_exclude":
+	[
+		"string",
+		"comment"
+	],
+	"tag_style": "tag",
+	"theme": "Soda Light 3.sublime-theme",
+	"trim_automatic_white_space": true,
+	"trim_trailing_white_space_on_save": true,
+	"word_wrap": false
+}

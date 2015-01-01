@@ -1,0 +1,53 @@
+{
+	"folders":
+	[
+		{
+			"follow_symlinks": true,
+			"path": "/Users/stephane/Dropbox/zoo"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "/Users/stephane/Dropbox/gurucode/guru/ui_zoo"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "/Users/stephane/Dropbox/gurucode"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "/Users/stephane/Documents/code/dots"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "/Users/stephane/code/pharmacy"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "/Users/stephane/code/our-boxen"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "/Users/stephane/code/goodrx-mobile"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "/Users/stephane/code/dots"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "/Users/stephane/code/boxen-example"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "/Users/stephane/code/angoolar-resource"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "/Users/stephane/code/angoolar-css-taxonomy"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "/Users/stephane/code/angoolar"
+		}
+	]
+}
