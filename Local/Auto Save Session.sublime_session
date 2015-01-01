@@ -5,7 +5,7 @@
 		"/Users/stephane/Downloads/dots-master"
 	],
 	"last_version": 3065,
-	"last_window_id": 3,
+	"last_window_id": 4,
 	"log_indexing": false,
 	"settings":
 	{
@@ -21,11 +21,11 @@
 			"build_system": "",
 			"command_palette":
 			{
-				"height": 0.0,
+				"height": 392.0,
 				"selected_items":
 				[
 				],
-				"width": 0.0
+				"width": 392.0
 			},
 			"console":
 			{
@@ -45,11 +45,30 @@
 			},
 			"file_history":
 			[
+				"/Users/stephane/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+				"/Users/stephane/Library/Application Support/Sublime Text 3/Packages/Alignment/Default (OSX).sublime-keymap",
+				"/Users/stephane/Library/Application Support/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+				"/Users/stephane/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
+				"/Users/stephane/Documents/code/dots/setup/goodrx-mobile/update.sh",
+				"/Users/stephane/Documents/code/dots/setup/pharmacy/subscripts/pharmacy_dependencies.sh",
+				"/Users/stephane/Documents/code/dots/setup/pharmacy/index.sh",
+				"/Users/stephane/Documents/code/dots/setup/goodrx-mobile/index.sh",
+				"/Users/stephane/Documents/code/dots/setup/pharmacy/pharmacy_dependencies.sh",
+				"/Users/stephane/Documents/code/dots/os/osx/update.sh",
+				"/Users/stephane/Documents/code/dots/dots.sh",
+				"/Users/stephane/Documents/code/dots/os/osx/binaries.sh",
+				"/Users/stephane/Documents/code/dots/os/osx/apps.sh",
+				"/Users/stephane/Documents/code/dots/os/python/index.sh",
+				"/Users/stephane/Documents/code/dots/setup/python/index.sh",
+				"/Users/stephane/Documents/code/dots/setup/python/setup.sh",
+				"/Users/stephane/Documents/code/dots/os/osx/index.sh",
+				"/Users/stephane/Documents/code/dots/os/python/pharmacy.sh",
+				"/Users/stephane/Documents/code/dots/os/python/setup.sh",
 				"/Users/stephane/.profile"
 			],
 			"find":
 			{
-				"height": 0.0
+				"height": 22.0
 			},
 			"find_in_files":
 			{
@@ -63,6 +82,16 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"goodrx-mobile=",
+					"pharmacy",
+					"-user=",
+					"-",
+					"pharmacy",
+					"mysql",
+					"python",
+					"os",
+					"boot",
+					"osx"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -79,11 +108,11 @@
 			},
 			"incremental_find":
 			{
-				"height": 0.0
+				"height": 21.0
 			},
 			"input":
 			{
-				"height": 0.0
+				"height": 31.0
 			},
 			"menu_visible": true,
 			"output.find_results":
@@ -92,7 +121,7 @@
 			},
 			"replace":
 			{
-				"height": 0.0
+				"height": 40.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -437,6 +466,14 @@
 					}
 				},
 				{
+					"file": "/Users/stephane/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+					"settings":
+					{
+						"buffer_size": 1265,
+						"line_ending": "Unix"
+					}
+				},
+				{
 					"file": "/Users/stephane/Documents/code/dots/setup/pharmacy/test.sh",
 					"settings":
 					{
@@ -514,7 +551,7 @@
 			],
 			"find":
 			{
-				"height": 22.0
+				"height": 37.0
 			},
 			"find_in_files":
 			{
@@ -528,6 +565,7 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"spell",
 					"goodrx-mobile=",
 					"pharmacy",
 					"-user=",
@@ -562,7 +600,7 @@
 			"groups":
 			[
 				{
-					"selected": 2,
+					"selected": 3,
 					"sheets":
 					[
 						{
@@ -590,7 +628,7 @@
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 2,
+							"stack_index": 3,
 							"type": "text"
 						},
 						{
@@ -620,7 +658,7 @@
 								"translation.y": 1083.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 3,
+							"stack_index": 4,
 							"type": "text"
 						},
 						{
@@ -636,8 +674,8 @@
 								"selection":
 								[
 									[
-										139,
-										183
+										339,
+										339
 									]
 								],
 								"settings":
@@ -708,11 +746,100 @@
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 0,
+							"stack_index": 1,
 							"type": "text"
 						},
 						{
 							"buffer": 3,
+							"file": "/Users/stephane/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1265,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1209,
+										1209
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content"
+									],
+									"side_bar_folders_auto_load_folder": 1,
+									"syntax": "Packages/JavaScript/JSON.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 604.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 4,
 							"file": "/Users/stephane/Documents/code/dots/setup/pharmacy/test.sh",
 							"semi_transient": false,
 							"settings":
@@ -736,11 +863,11 @@
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 4,
+							"stack_index": 5,
 							"type": "text"
 						},
 						{
-							"buffer": 4,
+							"buffer": 5,
 							"file": "/Users/stephane/Documents/code/dots/setup/pharmacy/update.sh",
 							"semi_transient": false,
 							"settings":
@@ -764,7 +891,7 @@
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 1,
+							"stack_index": 2,
 							"type": "text"
 						}
 					]
@@ -840,7 +967,7 @@
 			"settings":
 			{
 			},
-			"show_minimap": true,
+			"show_minimap": false,
 			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": true,

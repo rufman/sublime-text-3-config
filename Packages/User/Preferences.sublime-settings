@@ -79,5 +79,7 @@
 	"theme": "Soda Light 3.sublime-theme",
 	"trim_automatic_white_space": true,
 	"trim_trailing_white_space_on_save": true,
-	"word_wrap": false
+	"word_wrap": false,
+	"spell_check": true,
+	"dictionary": "Packages/Language - English/en_US.dic"
 }
