@@ -1,11 +1,7 @@
 {
+	"bootstrapped": true,
 	"in_process_packages":
 	[
-	],
-	"installed_dependencies":
-	[
-		"0_package_control_loader",
-		"bz2"
 	],
 	"installed_packages":
 	[
@@ -17,16 +13,28 @@
 		"Emmet",
 		"Git",
 		"GitGutter",
+		"Jade",
+		"JavaScriptNext - ES6 Syntax",
+		"JSX",
 		"Package Control",
 		"Pretty YAML",
 		"Puppet",
+		"ReactJS",
 		"Sass",
 		"SideBarEnhancements",
 		"SideBarFolders",
 		"SPARC Assembly",
+		"sublime-react-es6",
 		"SublimeLinter",
+		"SublimeLinter-contrib-eslint",
+		"SublimeLinter-flow",
+		"SublimeLinter-jsxhint",
 		"SublimePythonIDE",
 		"SublimeREPL",
 		"Theme - Soda"
+	],
+	"repositories":
+	[
+		"https://github.com/gpbl/sublime-react-es6"
 	]
 }

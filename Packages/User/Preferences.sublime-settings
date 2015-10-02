@@ -1,6 +1,7 @@
 {
 	"bold_folder_labels": true,
 	"color_scheme": "Packages/User/Espresso Soda (SL) (SublimePythonIDE).tmTheme",
+	"dictionary": "Packages/Language - English/en_US.dic",
 	"draw_white_space": "all",
 	"folder_exclude_patterns":
 	[
@@ -50,6 +51,7 @@
 	"scroll_past_end": true,
 	"soda_classic_tabs": true,
 	"soda_folder_icons": true,
+	"spell_check": true,
 	"tab_size": 4,
 	"tag_mode":
 	{
@@ -79,7 +81,5 @@
 	"theme": "Soda Light 3.sublime-theme",
 	"trim_automatic_white_space": true,
 	"trim_trailing_white_space_on_save": true,
-	"word_wrap": false,
-	"spell_check": true,
-	"dictionary": "Packages/Language - English/en_US.dic"
+	"word_wrap": false
 }

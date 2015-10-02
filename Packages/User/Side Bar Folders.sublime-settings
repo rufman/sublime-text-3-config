@@ -14,8 +14,68 @@
 			"path": "/Users/stephane/Dropbox/gurucode"
 		},
 		{
+			"path": "/Users/stephane/Documents/code/VinylDB"
+		},
+		{
+			"path": "/Users/stephane/Documents/code/StumbleAPorn"
+		},
+		{
+			"path": "/Users/stephane/Documents/code/pharmacy/frontend/node_modules"
+		},
+		{
+			"path": "/Users/stephane/Documents/code/pharmacy"
+		},
+		{
+			"path": "/Users/stephane/Documents/code/marty-lib"
+		},
+		{
+			"path": "/Users/stephane/Documents/code/marty"
+		},
+		{
+			"path": "/Users/stephane/Documents/code/gulp-s3-upload"
+		},
+		{
 			"follow_symlinks": true,
+			"path": "/Users/stephane/Documents/code/grunt-ec2"
+		},
+		{
+			"path": "/Users/stephane/Documents/code/goodrx-style"
+		},
+		{
+			"path": "/Users/stephane/Documents/code/goodrx-mobile-old"
+		},
+		{
+			"path": "/Users/stephane/Documents/code/goodrx-mobile"
+		},
+		{
+			"path": "/Users/stephane/Documents/code/goodrx-dash"
+		},
+		{
+			"path": "/Users/stephane/Documents/code/goodrx-ansible"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "/Users/stephane/Documents/code/gantryd"
+		},
+		{
 			"path": "/Users/stephane/Documents/code/dots"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "/Users/stephane/Documents/code/coreos-vagrant"
+		},
+		{
+			"path": "/Users/stephane/Documents/code/compression-webpack-plugin"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "/Users/stephane/Documents/code/ansible"
+		},
+		{
+			"path": "/Users/stephane/Documents/code/angoolarticsGTM"
+		},
+		{
+			"path": "/Users/stephane/Documents/code/angoolar"
 		},
 		{
 			"follow_symlinks": true,
